@@ -1,0 +1,21 @@
+.answer {
+    width: 47.5%;
+    padding: 10px;
+    color: #000000;
+    background-color: transparent;
+    background-image: radial-gradient(circle at 50% 50%, #E7D5FF 0%, #AF82DD 100%);
+    background-position: 0% 0%;
+    background-size: auto auto;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-origin: padding-box;
+    background-clip: border-box;
+    font-family: Verdana, sans-serif;
+    border: 3px solid #B6A9FF;
+    border-radius: 10px;
+    font-weight: 800;
+
+    &:hover {
+        border: 3px solid #7F17FF;
+    }
+}

@@ -1,0 +1,37 @@
+.reset-btn {
+    background-color: #9E60DE;
+    margin-top: 0px;
+    margin-left: 0px;
+    display: block;
+    width: 30%;
+    align-items: center;
+}
+
+.reset-text {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    direction: ltr;
+    box-shadow: 3px 3px 2px rgba(0, 0, 0, 0);
+    opacity: 1;
+    display: block;
+    margin-top: 1px;
+    margin-bottom: 100px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-shadow: -1.54px 2.57px 2px black;
+}
+
+.div-final {
+    display: flex;
+    flex-direction: column;
+    align-content: end;
+    justify-content: end;
+    margin: 100px;
+}
+
+.final-buttn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}

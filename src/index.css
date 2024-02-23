@@ -1,0 +1,13 @@
+html, body {
+  background-color: #caabff;
+}
+
+.main-menu {
+  background-size: cover;
+  background-position: center;
+  /* Add any additional styles you need */
+}
+
+.game-screen {
+  background-color: #caabff;
+}

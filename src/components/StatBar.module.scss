@@ -2,13 +2,19 @@
     display: flex;
     gap: 10px;
     padding: 10px;
-    background-color: rgba(189, 31, 31, 0);
+    background-color: transparent;
     background-repeat: no-repeat;
-    background-image: url('https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706918400&semt=ais');
-    background-position: 50%;
+    background-image: url(https://t4.ftcdn.net/jpg/02/39/71/35/360_F_239713552_ocaW21mFB9l9WIWuilyzcM22VswxfqTK.jpg);
+    background-position: 69% 82%;
     background-size: cover;
     background-attachment: scroll;
     background-origin: padding-box;
     background-clip: border-box;
     border-radius: 10px;
+    justify-content: space-evenly;
+    font-weight: 600;
+    font-size: 23px;
+    color: #FFFFFF;
+    text-shadow: -1.22px 1.58px 5px rgba(0, 0, 0, 0.74), -0.41px 0.91px rgb(0, 0, 0);
+    font-family: Verdana, sans-serif;
 }

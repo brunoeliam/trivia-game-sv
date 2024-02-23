@@ -6,6 +6,6 @@ export default createBoard({
     Board: () => <StatBar totalQuestions={1} currentQuestion={1} correct={1} incorrect={0} />,
     isSnippet: true,
     environmentProps: {
-        canvasWidth: 295,
+        canvasWidth: 613,
     },
 });

@@ -1,15 +1,63 @@
 {
   "questions": [
     {
-      "question": "cual es mi nombre?",
-      "choices": ["bruno","pedro","juan","matias"],
+      "question": "pregunta de ejemplo: ¿cual es mi color favorito?",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    },
+
+    {
+      "question": "pregunta de ejemplo 2",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
       "correctAnswerIdx": 0
     }, 
 
     {
-        "question": "cual es mi apellido?",
-        "choices": ["mercapidonn","mercapide","mercatoma","mercadito"],
-        "correctAnswerIdx": 1
-      }
+      "question": "pregunta de ejemplo 3",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    }, 
+
+    {
+      "question": "pregunta de ejemplo 4",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    },
+
+    {
+      "question": "pregunta de ejemplo 5",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    },
+
+    {
+      "question": "pregunta de ejemplo 6",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    },
+
+    {
+      "question": "pregunta de ejemplo 7",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    },
+
+    {
+      "question": "pregunta de ejemplo 8",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    },
+
+    {
+      "question": "pregunta de ejemplo 8",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    },
+
+    {
+      "question": "pregunta de ejemplo 9",
+      "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
+      "correctAnswerIdx": 0
+    }
   ]
 }

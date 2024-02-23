@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'Fashion Script';
+  src: url('fashion_script_2/FashionScript.otf') format('truetype');
+}
+
+.modal, .overlay {
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+}
+
+.overlay {
+  background: rgba(49, 49, 49, 0.8);
+}
+
+.body.active-modal {
+  overflow-y: hidden;
+}
+
+.modal-content {
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgb(245, 224, 255);
+  padding: 38px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.title-modal {
+  font-size: 1.8rem;
+  margin-top: 5px;
+  margin-bottom: 45px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.close-modal {
+  background: rgb(237, 198, 255);
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.date-modal {
+  font-size: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: 'Fashion Script';
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+p {
+  text-align: left;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
