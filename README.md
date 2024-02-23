@@ -1,8 +1,4 @@
-<div align="center">  
-    <img height="50" src="./src/assets/codux.svg">  
-    <h1><img height="30" src="./src/assets/vite.svg"> Vite template for Codux</h1>
-</div>
-
+In this project I decided to create a 'quiz' game as a present for my partner; I used both SCSS and 'Codux' to change the design of it, due to personal preference. I also decided to change the content of the modal that pops-up in the menu screen, and the questions as well, as these contained private matters and which were not necessary to understand the concept of the program.
 ### Available Scripts
 
 In the project directory, you can run:
