@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "question": "cual es mi nombre?",
+      "choices": ["bruno","pedro","juan","matias"],
+      "correctAnswerIdx": 0
+    }, 
+
+    {
+        "question": "cual es mi apellido?",
+        "choices": ["mercapidonn","mercapide","mercatoma","mercadito"],
+        "correctAnswerIdx": 1
+      }
+  ]
+}
