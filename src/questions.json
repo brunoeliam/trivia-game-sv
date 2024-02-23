@@ -49,13 +49,13 @@
     },
 
     {
-      "question": "pregunta de ejemplo 8",
+      "question": "pregunta de ejemplo 9",
       "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
       "correctAnswerIdx": 0
     },
 
     {
-      "question": "pregunta de ejemplo 9",
+      "question": "pregunta de ejemplo 10",
       "choices": ["opcion 1","opcion 2","opcion 3","opcion 4"],
       "correctAnswerIdx": 0
     }
